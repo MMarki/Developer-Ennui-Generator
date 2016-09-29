@@ -1,0 +1,35 @@
+#column1 {
+	width: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 210px;
+}
+
+#content-div {
+	width: 700px;
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p{
+	font-size: 48px;
+	font-family: Georgia, Times, serif;
+	margin-top: 0px;
+	width: 700px;
+	color: #111;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+button:focus {outline:0;}
+
+#generate-button {
+	font-family: Georgia, Times, serif;
+    border: none;
+    color: #555;
+    cursor: pointer;
+    font-size: 48px;
+    background: none!important;
+    padding: 0!important;
+}
